@@ -1,4 +1,4 @@
-# Projeto Final — Banco de Dados (Etapa 6)
+# Projeto Final — Banco de Dados ORM
 
 Sistema de biblioteca de jogos usando **Python + SQLAlchemy** conectado ao **PostgreSQL**.
 
